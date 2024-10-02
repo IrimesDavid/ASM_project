@@ -1,0 +1,1 @@
+This ASM program encrypts and decrypts a file, with a certain encrypting method and key, all of which the user can choose.
